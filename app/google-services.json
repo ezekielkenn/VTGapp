@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369766861861",
+    "firebase_url": "https://vtgapp-b1a10.firebaseio.com",
+    "project_id": "vtgapp-b1a10",
+    "storage_bucket": "vtgapp-b1a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369766861861:android:7322732e1abb97d5",
+        "android_client_info": {
+          "package_name": "com.examplsqlitehelper.vtgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369766861861-1k33lq58elb6gr5cu6a74jnlmjugirk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examplsqlitehelper.vtgapp",
+            "certificate_hash": "3cd0470c1f3303c11422117adea084d7de290563"
+          }
+        },
+        {
+          "client_id": "369766861861-6krp1hpg543vdod87n463npluedsnk8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbpCFH98GhKGRX1kewz_2sfG_nYoqx5Xc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369766861861-6krp1hpg543vdod87n463npluedsnk8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
